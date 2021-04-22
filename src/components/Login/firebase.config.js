@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyBHhOX8rtp2vahVcATkhTD_7CwARw6arrk",
+    apiKey: {API_KEY},
     authDomain: "fire-auth2.firebaseapp.com",
     databaseURL: "https://fire-auth2.firebaseio.com",
     projectId: "fire-auth2",
